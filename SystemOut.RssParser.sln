@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemOut.RssParser", "SystemOut.RssParser\SystemOut.RssParser.csproj", "{8D258BFB-9DCE-44F9-B775-F4E2BABEB465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemOut.RssParserConsole", "SystemOut.RssParserConsole\SystemOut.RssParserConsole.csproj", "{DDD0C93D-531A-4F31-B165-FA3E4DA1BB12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D258BFB-9DCE-44F9-B775-F4E2BABEB465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D258BFB-9DCE-44F9-B775-F4E2BABEB465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D258BFB-9DCE-44F9-B775-F4E2BABEB465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D258BFB-9DCE-44F9-B775-F4E2BABEB465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD0C93D-531A-4F31-B165-FA3E4DA1BB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD0C93D-531A-4F31-B165-FA3E4DA1BB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD0C93D-531A-4F31-B165-FA3E4DA1BB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD0C93D-531A-4F31-B165-FA3E4DA1BB12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

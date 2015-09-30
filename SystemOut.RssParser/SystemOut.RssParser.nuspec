@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.1.2</version>
+    <title>$title$</title>
+    <authors>Nicklas Møller Jepsen</authors>
+    <owners>SystemOut</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This RSS parser executes continiously. It runs on a given time interval, triggering events for each new RSS item imported.</description>
+    <releaseNotes>Fixed some minor bugs and also removed some unused references.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>RSS Parsing Service</tags>
+  </metadata>
+</package>
